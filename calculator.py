@@ -1,4 +1,6 @@
 def add(a,b):
+def add(a,b):
+    print("Adding numbers...")
     result = a+b
     return result
 
